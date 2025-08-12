@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am Belay, a passionate Full Stack Developer with expertise in PHP and the MERN stack (MongoDB, Express.js, React, Node.js). With a total of 14 public repositories, I enjoy working on diverse projects that showcase my skills in web development and database management. I believe in continuous learning and improvement, which is reflected in my active engagement on GitHub since 2024.
+I am Belay, a passionate Full Stack Developer with expertise in PHP and the MERN stack (MongoDB, Express.js, React, Node.js). With a total of 18 public repositories, I enjoy working on diverse projects that showcase my skills in web development and database management. I believe in continuous learning and improvement, which is reflected in my active engagement on GitHub since 2024.
 
 ### Skills and Interests
 
