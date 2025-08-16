@@ -1,30 +1,35 @@
-# 👋 Hi there, I'm Belay Katama Temesgen  
+# 👋 Hi, I'm Belay Katama Temesgen  
 
-💻 **Full Stack Developer | MERN & PHP Enthusiast | Lifelong Learner**  
-
-I’m a passionate developer with expertise in **PHP** and the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
-Since 2024, I’ve been actively building and contributing to projects that solve real-world problems, while continuously learning and improving my craft. 🚀  
+🎓 BSc in Software Engineering (Distinction, CGPA 3.76)  
+💻 MERN Stack Developer | Freelancer | Remote Worker  
+⚽ Chelsea & Saint George Fan | ☕ Coffee Lover | 🏋️ Gym & Swimming Enthusiast  
 
 ---
 
-## ⚡ Tech Stack & Skills  
+## 🚀 Tech Stack  
 
-### 🖥️ Frontend  
-- ⚛️ React.js  
-- 🌐 HTML5, CSS3  
-- 🎨 Responsive Design  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### ⚙️ Backend  
-- 🟢 Node.js  
-- 🐘 PHP  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-### 🗄️ Databases  
-- 🍃 MongoDB  
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-### 🔤 Languages  
-- JavaScript (ES6+)  
-- PHP  
-- HTML & CSS  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>  
 
 ---
 
@@ -37,31 +42,28 @@ Since 2024, I’ve been actively building and contributing to projects that solv
 
 ---
 
-## 🌟 Featured Projects  
+## 🔥 GitHub Streak  
 
-🔹 [**Sntayew-shop**](https://github.com/Belasoftengg/Sntayew-shop) – Dynamic **e-commerce platform** built with MERN.  
-🔹 [**MongoDBcrud-app**](https://github.com/Belasoftengg/MongoDBcrud-app) – CRUD app demonstrating **MongoDB database management**.  
-🔹 [**Haileresort-_website**](https://github.com/Belasoftengg/Haileresort-_website) – A responsive **resort website** project.  
-
-👉 Explore more projects in my [repositories](https://github.com/Belasoftengg?tab=repositories).  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Belasoftengg&theme=radical&hide_border=true" height="180" />
+</p>  
 
 ---
 
-## 🤝 Let’s Connect  
+## 📈 Contribution Graph  
 
-- 📧 Email: [belasofteng@mail.com](mailto:belasofteng@mail.com)  
-- 💼 LinkedIn: [Belay Katama Temesgen](https://www.linkedin.com/in/belay-ketema-819231251/)  
-- 🌍 Portfolio (coming soon...)  
-
----
-
-## 📈 Coding Journey  
-
-I’ve made **44+ commits** and actively contribute to open-source and personal projects.  
-One of my highlighted works includes **Graph Data Structure with Shortest Path Algorithms**, reflecting my interest in algorithms and problem-solving.  
-
-I strongly believe in **collaboration, open-source, and lifelong learning**. Let’s build amazing things together! 🚀  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Belasoftengg&theme=radical" />
+</p>  
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
+## 🌍 Connect With Me  
+
+- LinkedIn: [Belay Katama](https://www.linkedin.com/in/belay-ketema-819231251/)  
+- Facebook Marketplace: [My Shop](https://www.facebook.com/) *(update with your actual shop link)*  
+- Portfolio:(https://belay-ketema-portifolio.onrender.com) 
+
+---
+
+⭐️ From [Belasoftengg](https://github.com/Belasoftengg)  
