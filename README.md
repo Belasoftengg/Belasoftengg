@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Belay Katama Temesgen  
 
 🎓 BSc in Software Engineering (Distinction, CGPA 3.76)  
-💻 MERN Stack Developer | Freelancer | Remote Worker  
+💻 MERN Stack Developer | Remote Worker  
 ⚽ Chelsea & Saint George Fan | ☕ Coffee Lover | 🏋️ Gym & Swimming Enthusiast  
 
 ---
