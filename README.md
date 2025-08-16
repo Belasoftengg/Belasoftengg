@@ -1,35 +1,67 @@
-## Hi there! 👋 Welcome to my GitHub Profile
+# 👋 Hi there, I'm Belay Katama Temesgen  
 
-### About Me
+💻 **Full Stack Developer | MERN & PHP Enthusiast | Lifelong Learner**  
 
-I am Belay, a passionate Full Stack Developer with expertise in PHP and the MERN stack (MongoDB, Express.js, React, Node.js). With a total of 18 public repositories, I enjoy working on diverse projects that showcase my skills in web development and database management. I believe in continuous learning and improvement, which is reflected in my active engagement on GitHub since 2024.
+I’m a passionate developer with expertise in **PHP** and the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
+Since 2024, I’ve been actively building and contributing to projects that solve real-world problems, while continuously learning and improving my craft. 🚀  
 
-### Skills and Interests
+---
 
-- **Frontend:** React, HTML, CSS
-- **Backend:** PHP, Node.js
-- **Databases:** MongoDB
-- **Languages:** JavaScript, PHP, CSS, HTML
+## ⚡ Tech Stack & Skills  
 
-### GitHub Stats
+### 🖥️ Frontend  
+- ⚛️ React.js  
+- 🌐 HTML5, CSS3  
+- 🎨 Responsive Design  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Belasoftengg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belasoftengg)
+### ⚙️ Backend  
+- 🟢 Node.js  
+- 🐘 PHP  
 
-### My Best Projects
+### 🗄️ Databases  
+- 🍃 MongoDB  
 
-Here are a few of my noteworthy projects:
+### 🔤 Languages  
+- JavaScript (ES6+)  
+- PHP  
+- HTML & CSS  
 
-- **[Sntayew-shop](https://github.com/Belasoftengg/Sntayew-shop):** A dynamic e-commerce platform built using the MERN stack.
-- **[MongoDBcrud-app](https://github.com/Belasoftengg/MongoDBcrud-app):** An application demonstrating database management with MongoDB.
-- **[Haileresort-_website](https://github.com/Belasoftengg/Haileresort-_website):** A responsive website for a fictional resort.
+---
 
-### Get in Touch
+## 📊 GitHub Stats  
 
-📫 Feel free to reach out to me via [email](mailto:belasofteng@mail.com) for any collaboration or project discussion.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Belasoftengg&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belasoftengg&layout=compact&theme=radical" height="160" />
+</p>  
 
-### Coding Habits and Contributions
+---
 
-I have consistently made 44 commits and actively contributed to both personal and collaborative projects on GitHub. By creating repositories and contributing to open-source projects like "Graph Data Structure with Shortest Path Algorithms," I strive to grow as a developer and give back to the coding community.
+## 🌟 Featured Projects  
 
-Thank you for visiting my profile! 🚀 Let's connect and build amazing things together.
+🔹 [**Sntayew-shop**](https://github.com/Belasoftengg/Sntayew-shop) – Dynamic **e-commerce platform** built with MERN.  
+🔹 [**MongoDBcrud-app**](https://github.com/Belasoftengg/MongoDBcrud-app) – CRUD app demonstrating **MongoDB database management**.  
+🔹 [**Haileresort-_website**](https://github.com/Belasoftengg/Haileresort-_website) – A responsive **resort website** project.  
+
+👉 Explore more projects in my [repositories](https://github.com/Belasoftengg?tab=repositories).  
+
+---
+
+## 🤝 Let’s Connect  
+
+- 📧 Email: [belasofteng@mail.com](mailto:belasofteng@mail.com)  
+- 💼 LinkedIn: [Belay Katama Temesgen](https://www.linkedin.com/in/belay-ketema-819231251/)  
+- 🌍 Portfolio (coming soon...)  
+
+---
+
+## 📈 Coding Journey  
+
+I’ve made **44+ commits** and actively contribute to open-source and personal projects.  
+One of my highlighted works includes **Graph Data Structure with Shortest Path Algorithms**, reflecting my interest in algorithms and problem-solving.  
+
+I strongly believe in **collaboration, open-source, and lifelong learning**. Let’s build amazing things together! 🚀  
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
