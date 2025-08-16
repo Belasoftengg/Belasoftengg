@@ -60,8 +60,7 @@
 
 ## 🌍 Connect With Me  
 
-- LinkedIn: [Belay Katama](https://www.linkedin.com/in/belay-ketema-819231251/)  
-- Facebook Marketplace: [My Shop](https://www.facebook.com/) *(update with your actual shop link)*  
+- LinkedIn: [Belay Katama](https://www.linkedin.com/in/belay-ketemaa/)  
 - Portfolio:(https://belay-ketema-portifolio.onrender.com) 
 
 ---
